@@ -1,5 +1,6 @@
-[![Nabil Github Stats](https://github-readme-stats.vercel.app/api?username=arvnabil&count_private=true&theme=default&show_icons=true)](https://github.com/arvnabil)
+<!--[![Nabil Github Stats](https://github-readme-stats.vercel.app/api?username=arvnabil&count_private=true&theme=default&show_icons=true)](https://github.com/arvnabil)
 <br>
+-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arvnabil&layout=compact)](https://github.com/arvnabil)
 <br>
 
