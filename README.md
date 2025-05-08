@@ -57,4 +57,4 @@ Beyond development, I have expertise in **Search Engine Optimization (SEO)—inc
 <br clear="both">
 
 <img src="snake.svg" alt="Snake animation" />
-<!-- https://platane.github.io/snk/ -->
+<!--  -->
