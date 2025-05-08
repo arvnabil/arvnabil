@@ -33,9 +33,9 @@ My name is **Nabil**, and I'm a **full-stack web developer** from **Jakarta, Ind
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="30" alt="wordpress logo"  />
-  <img width="12" />>
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
-  <img width="12" />>
+  <img width="12" />
 </div>
 
 ###
@@ -56,4 +56,4 @@ Beyond development, I have expertise in **Search Engine Optimization (SEO)—inc
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img src="snake.svg" alt="Snake animation" />
